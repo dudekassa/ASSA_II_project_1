@@ -6,5 +6,6 @@ class Main {
     System.out.println("Leszek Czarny");
 
     System.out.println("Do widzenia. Leszek");
+    System.out.println("Do widzenia.Iga");
   }
 }
